@@ -105,4 +105,4 @@ git add week-3/20-git-conflict/styles.css
 git commit -m "Merge purple_links branch"
 ```
 
-Way to go! You've now resolved a merge conflict. Merge conflicts are one of the most challenging things you will deal with. If you made it through, give yourself a pat on the back.
+Way to go! You've now resolved a merge conflict. Merge conflicts are one of the most challenging things you will deal with. If you made it through, gi ve yourself a pat on the back.
